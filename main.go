@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/gotilla/mux"
+	"github.com/gorilla/mux"
 )
 
 type Movie struct{
